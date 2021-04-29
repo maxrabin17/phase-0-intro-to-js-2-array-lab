@@ -30,7 +30,7 @@ function prependCat(name){
 }
 
 function removeLastCat(){
-    return cats.slice(0, cats.length - 1);
+    return cats.slice(0, 2);
 }
 
 function removeFirstCat(){
